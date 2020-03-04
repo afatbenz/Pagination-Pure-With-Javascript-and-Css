@@ -1,0 +1,22 @@
+.pagebutton ul li a {
+  border: 1px solid #20a8d8;
+  padding: 0 0px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 3px;
+}
+.pagebutton ul .active a {
+  background: #20a8d8;
+  color: #fff
+}
+.pagebutton ul li a:hover{
+  text-decoration: none;
+  background: #f67bf645;
+  color: #000;
+}
+.pagebutton select{
+  cursor: pointer;
+  background: #f4f4f4
+}
+.pagebutton select:hover, .box_detail select:hover, .box_product select:hover, .box_store select:hover{
+  background: #fff
+}
